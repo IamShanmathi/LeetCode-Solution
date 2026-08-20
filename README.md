@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0283-move-zeroes) |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
