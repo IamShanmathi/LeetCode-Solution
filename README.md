@@ -29,18 +29,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -81,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
