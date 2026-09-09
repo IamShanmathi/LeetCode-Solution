@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0645-set-mismatch) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
