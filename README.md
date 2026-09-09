@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
@@ -145,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
