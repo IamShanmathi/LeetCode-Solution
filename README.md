@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1446-consecutive-characters](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1446-consecutive-characters) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
