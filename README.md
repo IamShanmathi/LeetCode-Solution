@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,4 +195,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
