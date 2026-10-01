@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -223,4 +225,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
