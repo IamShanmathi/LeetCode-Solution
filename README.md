@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0221-maximal-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0221-maximal-square](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0221-maximal-square) |
 ## Simulation
 |  |
 | ------- |
