@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -301,10 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0518-coin-change-ii) |
 ## Union-Find
 |  |
 | ------- |
