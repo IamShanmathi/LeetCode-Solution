@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1143-longest-common-subsequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1446-consecutive-characters) |
 ## Array
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0322-coin-change) |
+| [1143-longest-common-subsequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -314,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
