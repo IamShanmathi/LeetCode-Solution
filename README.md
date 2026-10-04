@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0169-majority-element) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
 ## Graph Theory
 |  |
