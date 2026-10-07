@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0217-contains-duplicate) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
