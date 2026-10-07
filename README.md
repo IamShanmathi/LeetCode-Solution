@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -395,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0743-network-delay-time) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
