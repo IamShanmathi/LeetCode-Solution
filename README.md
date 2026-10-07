@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0337-house-robber-iii) |
 | [0518-coin-change-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0518-coin-change-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0337-house-robber-iii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -353,4 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0212-word-search-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
