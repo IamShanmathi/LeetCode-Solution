@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0645-set-mismatch) |
@@ -295,11 +297,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
