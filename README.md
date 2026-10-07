@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
