@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/1095-find-in-mountain-array) |
@@ -294,10 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
