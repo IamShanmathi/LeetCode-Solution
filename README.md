@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0337-house-robber-iii) |
+| [0743-network-delay-time](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Knapsack Problem
 |  |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [0743-network-delay-time](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
@@ -377,13 +380,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
+| [0743-network-delay-time](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
