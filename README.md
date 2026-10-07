@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0212-word-search-ii) |
