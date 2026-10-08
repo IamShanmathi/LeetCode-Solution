@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 ## Counting Sort
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 ## Manacher
 |  |
 | ------- |
