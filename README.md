@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0056-merge-intervals) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0169-majority-element) |
