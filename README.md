@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0050-powx-n) |
 ## Manacher
 |  |
 | ------- |
