@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0054-spiral-matrix) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0212-word-search-ii) |
 ## Heap (Priority Queue)
 |  |
