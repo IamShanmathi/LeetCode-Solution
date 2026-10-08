@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0054-spiral-matrix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0409-longest-palindrome) |
 ## Counting Sort
 |  |
