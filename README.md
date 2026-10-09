@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0068-text-justification) |
 ## Pigeonhole Principle
 |  |
 | ------- |
