@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
