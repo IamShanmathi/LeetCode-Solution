@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0268-missing-number) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0337-house-robber-iii) |
 ## DP on Trees
@@ -571,4 +575,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
