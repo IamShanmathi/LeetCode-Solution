@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0212-word-search-ii) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0212-word-search-ii) |
 ## Heap (Priority Queue)
 |  |
