@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0337-house-robber-iii) |
 ## DP on Trees
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0207-course-schedule) |
