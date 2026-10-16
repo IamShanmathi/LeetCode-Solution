@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0093-restore-ip-addresses) |
 | [0212-word-search-ii](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0212-word-search-ii) |
 ## Heap (Priority Queue)
 |  |
