@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0208-implement-trie-prefix-tree) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/IamShanmathi/LeetCode-Solution/tree/master/0139-word-break) |
